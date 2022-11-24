@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972832008990",
+    "firebase_url": "https://elderlymonitoringsystem-2f6b7.firebaseio.com",
+    "project_id": "elderlymonitoringsystem-2f6b7",
+    "storage_bucket": "elderlymonitoringsystem-2f6b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972832008990:android:d79f38a203b3916b91370f",
+        "android_client_info": {
+          "package_name": "com.ems.ems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972832008990-9s93tg5135v3918e5k4dbs0463hgb11s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3RMGfQbpDFQ6UVJELxCAW5EgNg5znV84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972832008990-9s93tg5135v3918e5k4dbs0463hgb11s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
